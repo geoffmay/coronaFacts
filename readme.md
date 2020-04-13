@@ -11,6 +11,7 @@ This is a brand new problem, so many hospital administrators are struggling to c
         * A handful of countries around the world have done this, but we have not.
     * Now that he virus is spreading, we need to do what [Wuhan did](https://www.newyorker.com/magazine/2020/03/30/life-on-lockdown-in-china), manufacture huge amounts of PPE very quickly. 
         * We don't have the manufacturing capability for that either.
+          * The ingredient we are missing is "[melt-blown fabric](https://www.npr.org/sections/goatsandsoda/2020/03/16/814929294/covid-19-has-caused-a-shortage-of-face-masks-but-theyre-surprisingly-hard-to-mak)," which is made by blowing hot air on rods of plastic, making them become very tiny and bunch together, making holes that are too small for aerosol droplets to pass through.
         * We are ordering N-95 masks from [china](https://docs.google.com/spreadsheets/d/1GpMvD4Z-jWdifo5ZQnJB7HHsOwwdj1tjTPkw6f2Kshg/edit?fbclid=IwAR1qcT6ZPmBwE0-1XghRyBdaMTPT6ckntqjqXUDDBkX3fyS4XbnAV6eNMTY#gid=0).
             * Now that they are getting things under control, they are starting to produce more masks than they need.
             * I have people offering on my doctor facebook groups to sell me masks 25,000 at a time for $4 apiece.
